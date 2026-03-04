@@ -58,6 +58,20 @@ https://sentiment-analysis-app-vaprdffyaeuaokxsoapee2.streamlit.app/
    - Wrote this README with all required sections  
    - Added screenshots to show how it looks
 
+## Screenshots of the Application
+
+### 1. Main interface (input screen with examples)
+![Main Interface](screenshots/interface.png)
+
+### 2. Positive sentiment result
+![Positive Result](screenshots/positive.png)
+
+### 3. Neutral sentiment result
+![Neutral Result](screenshots/03-neutral.png) 
+
+### 4. Positive sentiment result
+![negative Result](screenshots/negative.png)
+
 ## How to Run Locally
 
 1. Clone the repository  
