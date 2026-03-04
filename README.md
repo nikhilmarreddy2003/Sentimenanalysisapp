@@ -61,16 +61,17 @@ https://sentiment-analysis-app-vaprdffyaeuaokxsoapee2.streamlit.app/
 ## Screenshots of the Application
 
 ### 1. Main interface (input screen)
-![Main Interface](screenshots/interface.png)
+![Main Interface](main interface.png)
 
 ### 2. Positive sentiment result
-![Positive Result](screenshots/positve.png)
+![Positive Result](positve.png)
 
 ### 3. Neutral sentiment result
-![Neutral Result](screenshots/neautral.png)
+![Neutral Result](neautral.png)
 
 ### 4. Negative sentiment result
-![Negative Result](screenshots/negative.png)
+![Negative Result](negative.png)
+
 
 ## How to Run Locally
 
