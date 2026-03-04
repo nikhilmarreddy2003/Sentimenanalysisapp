@@ -64,7 +64,7 @@ https://sentiment-analysis-app-vaprdffyaeuaokxsoapee2.streamlit.app/
 ![Main Interface](https://github.com/nikhilmarreddy2003/Sentimenanalysisapp/blob/main/main%20interface.png?raw=true)
 
 ### 2. Positive sentiment result
-![Positive Result](https://github.com/nikhilmarreddy2003/Sentimenanalysisapp/blob/main/positve.png?raw=true)
+![Positive Result](https://github.com/nikhilmarreddy2003/Sentimenanalysisapp/blob/main/positive.png?raw=true)
 
 ### 3. Neutral sentiment result
 ![Neutral Result](https://github.com/nikhilmarreddy2003/Sentimenanalysisapp/blob/main/neautral.png?raw=true)
